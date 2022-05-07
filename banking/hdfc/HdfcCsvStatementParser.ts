@@ -2,7 +2,7 @@ import { parse } from '@fast-csv/parse';
 
 import { createReadStream, readFileSync, writeFileSync } from 'fs';
 import { resolve as pathResolve } from 'path';
-import { BankTransaction } from '../../models/BankTransaction';
+import { BankTransaction } from '../models/BankTransaction';
 
 export class HdfcCsvStatementParser {
 	public static parseHDFCAccountStatement(): Promise<BankTransaction[]> {
