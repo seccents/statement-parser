@@ -1,6 +1,6 @@
 {
-	"name": "statement-parser",
-	"version": "0.0.1",
+	"name": "@secsncents/statement-parser",
+	"version": "0.0.3",
 	"description": "Package to parse Bank, Credit Card, Stock and Crypto Statements.",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
@@ -13,16 +13,18 @@
 		"prepublishOnly": "npm run lint",
 		"preversion": "npm run lint",
 		"version": "npm run format && git add -A src",
-		"postversion": "git push && git push --tags"
+		"postversion": "git push && git push --tags",
+		"pack": "npm pack | tail -n 1",
+		"install": "npm install ./secsncents-statement-parser-0.0.3.tgz"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com-personal:seccents/statement-parser.git"
+		"url": "git@github.com:seccents/statement-parser.git"
 	},
 	"bugs": {
-		"url": "https://github.com/elanchezhiyanr/dividend-parser/issues"
+		"url": "https://github.com/seccents/statement-parser/issues"
 	},
-	"homepage": "https://github.com/elanchezhiyanr/dividend-parser#readme",
+	"homepage": "https://github.com/seccents/statement-parser#readme",
 	"keywords": [
 		"Statement",
 		"Parser",
@@ -35,7 +37,9 @@
 	"license": "ISC",
 	"dependencies": {
 		"@fast-csv/parse": "^4.3.6",
+		"@secsncents/statement-parser": "file:secsncents-statement-parser-0.0.3.tgz",
 		"moment": "^2.29.2",
+		"pdf2html": "^2.6.7",
 		"pdfreader": "^2.0.0"
 	},
 	"devDependencies": {
@@ -60,5 +64,8 @@
 	},
 	"files": [
 		"dist/**/*"
-	]
+	],
+	"publishConfig": {
+		"access": "public"
+	}
 }
