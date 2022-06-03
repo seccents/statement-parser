@@ -1,0 +1,2613 @@
+Profit Summary
+`````` ```````
+{
+  "Txn Date": "4/3/21",
+  "Value Date": "4/3/21",
+  "Description": "BY TRANSFER-UPI/CR/109350224025/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098702162092",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "63,288.56",
+  "": ""
+}{
+  "Txn Date": "4/4/21",
+  "Value Date": "4/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN421094747842--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRP4804791                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "53,288.56",
+  "": ""
+}{
+  "Txn Date": "4/4/21",
+  "Value Date": "4/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN421094751567--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRP4805320                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "51,288.56",
+  "": ""
+}{
+  "Txn Date": "4/15/21",
+  "Value Date": "4/15/21",
+  "Description": "TO TRANSFER-UPI/DR/110518537574/Jio Mobi/YESB/jio@yesban/JIO20--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097825162090",
+  "Debit": "11.00",
+  "Credit": "",
+  "Balance": "51,277.56",
+  "": ""
+}{
+  "Txn Date": "4/16/21",
+  "Value Date": "4/16/21",
+  "Description": "BULK POSTING-ACHCr HDFC01146000010467 BRITANNIA INDU--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "62.00",
+  "Balance": "51,339.56",
+  "": ""
+}{
+  "Txn Date": "4/16/21",
+  "Value Date": "4/16/21",
+  "Description": "BULK POSTING-ACHCr HDFC00396000008623 Colgate-Palmol--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "40.00",
+  "Balance": "51,379.56",
+  "": ""
+}{
+  "Txn Date": "4/17/21",
+  "Value Date": "4/17/21",
+  "Description": "TO TRANSFER-UPI/DR/110700544720/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098053162097",
+  "Debit": "20,000.00",
+  "Credit": "",
+  "Balance": "31,379.56",
+  "": ""
+}{
+  "Txn Date": "4/18/21",
+  "Value Date": "4/18/21",
+  "Description": "TO TRANSFER-UPI/DR/110817231351/makemytrip/ICIC/makemytrip/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098060162098",
+  "Debit": "4,973.00",
+  "Credit": "",
+  "Balance": "26,406.56",
+  "": ""
+}{
+  "Txn Date": "4/20/21",
+  "Value Date": "4/20/21",
+  "Description": "TO TRANSFER-UPI/DR/111025885178/Paytm Re/PYTM/paybil3066/Oid13--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097632162099",
+  "Debit": "32.00",
+  "Credit": "",
+  "Balance": "26,374.56",
+  "": ""
+}{
+  "Txn Date": "4/21/21",
+  "Value Date": "4/21/21",
+  "Description": "BY TRANSFER-UPI/CR/111114906715/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693220162099",
+  "Debit": "",
+  "Credit": "20,000.00",
+  "Balance": "46,374.56",
+  "": ""
+}{
+  "Txn Date": "4/21/21",
+  "Value Date": "4/21/21",
+  "Description": "TO TRANSFER-UPI/DR/111115423284/MR VIGNE/SCBL/vigneshwar/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097740162094",
+  "Debit": "45,000.00",
+  "Credit": "",
+  "Balance": "1,374.56",
+  "": ""
+}{
+  "Txn Date": "4/21/21",
+  "Value Date": "4/21/21",
+  "Description": "BY TRANSFER-UPI/CR/111115966773/GOOGLEPAY/UTIB/goog-payme/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099001162091",
+  "Debit": "",
+  "Credit": "5.00",
+  "Balance": "1,379.56",
+  "": ""
+}{
+  "Txn Date": "4/22/21",
+  "Value Date": "4/22/21",
+  "Description": "BY TRANSFER-UPI/CR/111218316522/P RAMANI/IBKL/ramanicmd@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099058162095",
+  "Debit": "",
+  "Credit": "2,000.00",
+  "Balance": "3,379.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "BY TRANSFER-NEFT*CITI0100000*CITIN21165456098*TATA CONSULTANCY--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199417044302",
+  "Debit": "",
+  "Credit": "54,496.00",
+  "Balance": "57,875.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "TO TRANSFER-UPI/DR/112012797579/CredClub/ICIC/credclub@i/payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097873162093",
+  "Debit": "14,175.00",
+  "Credit": "",
+  "Balance": "43,700.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "TO TRANSFER-UPI/DR/112082407418/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898876162098",
+  "Debit": "218.00",
+  "Credit": "",
+  "Balance": "43,482.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "TO TRANSFER-UPI/DR/112010346488/KANNADAS/PYTM/das.kanna@/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4897676162094",
+  "Debit": "219.00",
+  "Credit": "",
+  "Balance": "43,263.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "TO TRANSFER-UPI/DR/112091378375/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694208162097",
+  "Debit": "160.00",
+  "Credit": "",
+  "Balance": "43,103.56",
+  "": ""
+}{
+  "Txn Date": "4/30/21",
+  "Value Date": "4/30/21",
+  "Description": "TO TRANSFER-UPI/DR/112058166771/Paytm Re/PYTM/paybil3066/Oid13--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097881162093",
+  "Debit": "49.00",
+  "Credit": "",
+  "Balance": "43,054.56",
+  "": ""
+}{
+  "Txn Date": "5/3/21",
+  "Value Date": "5/3/21",
+  "Description": "TO TRANSFER-UPI/DR/112320081285/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099331162096",
+  "Debit": "30,000.00",
+  "Credit": "",
+  "Balance": "13,054.56",
+  "": ""
+}{
+  "Txn Date": "5/4/21",
+  "Value Date": "5/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321124345279--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRP7658806                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "3,054.56",
+  "": ""
+}{
+  "Txn Date": "5/4/21",
+  "Value Date": "5/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321124346148--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRP7659071                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "1,054.56",
+  "": ""
+}{
+  "Txn Date": "5/4/21",
+  "Value Date": "5/4/21",
+  "Description": "BY TRANSFER-UPI/CR/112490389359/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4898952162092",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "11,054.56",
+  "": ""
+}{
+  "Txn Date": "5/6/21",
+  "Value Date": "5/6/21",
+  "Description": "TO TRANSFER-UPI/DR/112672666862/Paytm Ai/PYTM/payair7673/Oid13--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097825162090",
+  "Debit": "49.00",
+  "Credit": "",
+  "Balance": "11,005.56",
+  "": ""
+}{
+  "Txn Date": "5/7/21",
+  "Value Date": "5/7/21",
+  "Description": "TO TRANSFER-UPI/DR/112742254905/INSTAMOJ/ICIC/insta-qr@i/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097908162097",
+  "Debit": "500.00",
+  "Credit": "",
+  "Balance": "10,505.56",
+  "": ""
+}{
+  "Txn Date": "5/7/21",
+  "Value Date": "5/7/21",
+  "Description": "TO TRANSFER-UPI/DR/112716817027/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694196162097",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "5,505.56",
+  "": ""
+}{
+  "Txn Date": "5/11/21",
+  "Value Date": "5/11/21",
+  "Description": "TO TRANSFER-UPI/DR/113111553546/AMEENBAS/UTIB/ameenbasha/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097648162091",
+  "Debit": "4,000.00",
+  "Credit": "",
+  "Balance": "1,505.56",
+  "": ""
+}{
+  "Txn Date": "5/15/21",
+  "Value Date": "5/15/21",
+  "Description": "TO TRANSFER-UPI/DR/113555720046/Paytm/PYTM/add-money@/Oid13580--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098001162098",
+  "Debit": "120.00",
+  "Credit": "",
+  "Balance": "1,385.56",
+  "": ""
+}{
+  "Txn Date": "5/22/21",
+  "Value Date": "5/22/21",
+  "Description": "BY TRANSFER-UPI/CR/114255876462/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099221162091",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "11,385.56",
+  "": ""
+}{
+  "Txn Date": "5/22/21",
+  "Value Date": "5/22/21",
+  "Description": "TO TRANSFER-UPI/DR/114210597359/KAVITHA  M/KKBK/florriekav/lap--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694347162098",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "1,385.56",
+  "": ""
+}{
+  "Txn Date": "5/23/21",
+  "Value Date": "5/23/21",
+  "Description": "BY TRANSFER-UPI/CR/114311340101/KAVITHA  M/KKBK/florriekav/Ty--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099283162098",
+  "Debit": "",
+  "Credit": "12,000.00",
+  "Balance": "13,385.56",
+  "": ""
+}{
+  "Txn Date": "5/23/21",
+  "Value Date": "5/23/21",
+  "Description": "TO TRANSFER-UPI/DR/114314749194/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694506162098",
+  "Debit": "12,000.00",
+  "Credit": "",
+  "Balance": "1,385.56",
+  "": ""
+}{
+  "Txn Date": "5/23/21",
+  "Value Date": "5/23/21",
+  "Description": "BY TRANSFER-UPI/CR/114318297498/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4899001162097",
+  "Debit": "",
+  "Credit": "12,000.00",
+  "Balance": "13,385.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "BY TRANSFER-NEFT*CITI0100000*CITIN21180327327*TATA CONSULTANCY--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199968044304",
+  "Debit": "",
+  "Credit": "45,197.00",
+  "Balance": "58,582.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "TO TRANSFER-UPI/DR/115123266490/CredClub/ICIC/credclub@i/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097519162099",
+  "Debit": "15,611.00",
+  "Credit": "",
+  "Balance": "42,971.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "BY TRANSFER-UPI/CR/115155068751/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098829162098",
+  "Debit": "",
+  "Credit": "20,000.00",
+  "Balance": "62,971.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "BY TRANSFER-UPI/CR/115112094494/AMEENBAS/UTIB/ameenbasha/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693025162092",
+  "Debit": "",
+  "Credit": "4,000.00",
+  "Balance": "66,971.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "TO TRANSFER-UPI/DR/115128606129/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693798162091",
+  "Debit": "20,000.00",
+  "Credit": "",
+  "Balance": "46,971.56",
+  "": ""
+}{
+  "Txn Date": "5/31/21",
+  "Value Date": "5/31/21",
+  "Description": "TO TRANSFER-UPI/DR/115114305662/Zerodha/ICIC/zerodha.ra/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692422162098",
+  "Debit": "5,700.00",
+  "Credit": "",
+  "Balance": "41,271.56",
+  "": ""
+}{
+  "Txn Date": "6/2/21",
+  "Value Date": "6/2/21",
+  "Description": "TO TRANSFER-UPI/DR/115300308961/LITTLE HUT/UTIB/9176427613/Pay--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692534162090",
+  "Debit": "168.00",
+  "Credit": "",
+  "Balance": "41,103.56",
+  "": ""
+}{
+  "Txn Date": "6/4/21",
+  "Value Date": "6/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN421155733791--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRQ0701877                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "31,103.56",
+  "": ""
+}{
+  "Txn Date": "6/4/21",
+  "Value Date": "6/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN421155741097--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRQ0702847                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "29,103.56",
+  "": ""
+}{
+  "Txn Date": "6/6/21",
+  "Value Date": "6/6/21",
+  "Description": "TO TRANSFER-UPI/DR/115714331594/Paytm/PYTM/add-money@/Oid13822--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098087162098",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "29,003.56",
+  "": ""
+}{
+  "Txn Date": "6/7/21",
+  "Value Date": "6/7/21",
+  "Description": "BULK POSTING-ACHCr HDFC01146000010467 BRITANNIA INDU--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "12.50",
+  "Balance": "29,016.06",
+  "": ""
+}{
+  "Txn Date": "6/8/21",
+  "Value Date": "6/8/21",
+  "Description": "TO TRANSFER-UPI/DR/115913196403/Zerodha /HDFC/zerodhabro/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097635162096",
+  "Debit": "3,000.00",
+  "Credit": "",
+  "Balance": "26,016.06",
+  "": ""
+}{
+  "Txn Date": "6/14/21",
+  "Value Date": "6/14/21",
+  "Description": "BULK POSTING-ACHCr UTIB01853000028122 TCS Fin.Div.14--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "15.00",
+  "Balance": "26,031.06",
+  "": ""
+}{
+  "Txn Date": "6/15/21",
+  "Value Date": "6/15/21",
+  "Description": "TO TRANSFER-UPI/DR/116672807897/PhonePe/YESB/BILLDESKHE/Paymen--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097629162094",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "21,031.06",
+  "": ""
+}{
+  "Txn Date": "6/15/21",
+  "Value Date": "6/15/21",
+  "Description": "TO TRANSFER-UPI/DR/116610532695/Zerodha /HDFC/zerodhabro/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097601162095",
+  "Debit": "2,500.00",
+  "Credit": "",
+  "Balance": "18,531.06",
+  "": ""
+}{
+  "Txn Date": "6/15/21",
+  "Value Date": "6/15/21",
+  "Description": "TO TRANSFER-UPI/DR/116610570158/Zerodha /HDFC/zerodhabro/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692475162096",
+  "Debit": "250.00",
+  "Credit": "",
+  "Balance": "18,281.06",
+  "": ""
+}{
+  "Txn Date": "6/15/21",
+  "Value Date": "6/15/21",
+  "Description": "TO TRANSFER-UPI/DR/116610598716/Cred/YESB/credcc@yes/credit c--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692487162092",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "18,181.06",
+  "": ""
+}{
+  "Txn Date": "6/15/21",
+  "Value Date": "6/15/21",
+  "Description": "TO TRANSFER-UPI/DR/116610670016/CredClub/ICIC/credclub@i/credi--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898733162092",
+  "Debit": "4,900.00",
+  "Credit": "",
+  "Balance": "13,281.06",
+  "": ""
+}{
+  "Txn Date": "6/16/21",
+  "Value Date": "6/16/21",
+  "Description": "TO TRANSFER-UPI/DR/116720235023/RAJALAKS/HDFC/rrajalaksh/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099491162091",
+  "Debit": "2,501.00",
+  "Credit": "",
+  "Balance": "10,780.06",
+  "": ""
+}{
+  "Txn Date": "6/17/21",
+  "Value Date": "6/17/21",
+  "Description": "TO TRANSFER-UPI/DR/116809594714/Zerodha /HDFC/zerodhabro/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097824162091",
+  "Debit": "1,450.00",
+  "Credit": "",
+  "Balance": "9,330.06",
+  "": ""
+}{
+  "Txn Date": "6/22/21",
+  "Value Date": "6/22/21",
+  "Description": "TO TRANSFER-UPI/DR/117313093659/SATHEESH/KVBL/satheeshk1/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693860162090",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "8,330.06",
+  "": ""
+}{
+  "Txn Date": "6/24/21",
+  "Value Date": "6/24/21",
+  "Description": "BULK POSTING-C21795916363     40205377433RELIANCE INDUSTRIES LI--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "63.00",
+  "Balance": "8,393.06",
+  "": ""
+}{
+  "Txn Date": "6/25/21",
+  "Value Date": "6/25/21",
+  "Description": "TO TRANSFER-UPI/DR/117678767384/Paytm/PYTM/paytm-ptmb/Oid14069--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097901162094",
+  "Debit": "4,486.00",
+  "Credit": "",
+  "Balance": "3,907.06",
+  "": ""
+}{
+  "Txn Date": "6/25/21",
+  "Value Date": "6/25/21",
+  "Description": "BULK POSTING-ACHCr ICIC02491000005006 INFOSYS LIMITE--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "240.00",
+  "Balance": "4,147.06",
+  "": ""
+}{
+  "Txn Date": "6/25/21",
+  "Value Date": "6/25/21",
+  "Description": "BULK POSTING-ACHCr HDFC02241000016754 HINDUSTAN UNIL--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "17.00",
+  "Balance": "4,164.06",
+  "": ""
+}{
+  "Txn Date": "6/25/21",
+  "Value Date": "6/25/21",
+  "Description": "TO TRANSFER-UPI/DR/117670053717/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099675162094",
+  "Debit": "320.00",
+  "Credit": "",
+  "Balance": "3,844.06",
+  "": ""
+}{
+  "Txn Date": "6/25/21",
+  "Value Date": "6/25/21",
+  "Description": "CREDIT INTEREST---",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "142.00",
+  "Balance": "3,986.06",
+  "": ""
+}{
+  "Txn Date": "6/27/21",
+  "Value Date": "6/27/21",
+  "Description": "TO TRANSFER-UPI/DR/117839904849/Paytm/PYTM/add-money@/Oid14175--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692673162091",
+  "Debit": "104.00",
+  "Credit": "",
+  "Balance": "3,882.06",
+  "": ""
+}{
+  "Txn Date": "6/28/21",
+  "Value Date": "6/28/21",
+  "Description": "TO TRANSFER-UPI/DR/117956820878/Paytm/PYTM/add-money@/Oid14076--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097542162090",
+  "Debit": "50.00",
+  "Credit": "",
+  "Balance": "3,832.06",
+  "": ""
+}{
+  "Txn Date": "6/28/21",
+  "Value Date": "6/28/21",
+  "Description": "TO TRANSFER-UPI/DR/117962515337/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097519162099",
+  "Debit": "1,105.00",
+  "Credit": "",
+  "Balance": "2,727.06",
+  "": ""
+}{
+  "Txn Date": "6/28/21",
+  "Value Date": "6/28/21",
+  "Description": "BY TRANSFER-UPI/117839904849/REVERSAL--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4897696162090",
+  "Debit": "",
+  "Credit": "104.00",
+  "Balance": "2,831.06",
+  "": ""
+}{
+  "Txn Date": "6/28/21",
+  "Value Date": "6/28/21",
+  "Description": "TO TRANSFER-UPI/DR/117965337418/CredClub/ICIC/credclub@i/payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097537162097",
+  "Debit": "500.00",
+  "Credit": "",
+  "Balance": "2,331.06",
+  "": ""
+}{
+  "Txn Date": "6/28/21",
+  "Value Date": "6/28/21",
+  "Description": "TO TRANSFER-UPI/DR/117922802180/SUDARSHA/HDFC/sudarshank/Gilbe--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693773162090",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "2,231.06",
+  "": ""
+}{
+  "Txn Date": "6/29/21",
+  "Value Date": "6/29/21",
+  "Description": "BY TRANSFER-UPI/CR/118007809890/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098941162099",
+  "Debit": "",
+  "Credit": "3,000.00",
+  "Balance": "5,231.06",
+  "": ""
+}{
+  "Txn Date": "6/29/21",
+  "Value Date": "6/29/21",
+  "Description": "TO TRANSFER-UPI/DR/118048525104/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099425162090",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "231.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "BY TRANSFER-NEFT*CITI0100000*CITIN21195147235*TATA CONSULTANCY--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199961044301",
+  "Debit": "",
+  "Credit": "45,446.00",
+  "Balance": "45,677.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118110200371/Cred/YESB/credcc@yes/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692523162093",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "43,677.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118110218371/CredClub/ICIC/credclub@i/payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692526162090",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "41,677.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118110231298/Cred/YESB/credcc@yes/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097703162099",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "39,677.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118110247365/CredClub/ICIC/credclub@i/payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097694162096",
+  "Debit": "25.00",
+  "Credit": "",
+  "Balance": "39,652.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118110595211/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694058162095",
+  "Debit": "3,100.00",
+  "Credit": "",
+  "Balance": "36,552.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "BY TRANSFER-UPI/CR/118124298004/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098429162093",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "46,552.06",
+  "": ""
+}{
+  "Txn Date": "6/30/21",
+  "Value Date": "6/30/21",
+  "Description": "TO TRANSFER-UPI/DR/118140229513/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693978162098",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "36,552.06",
+  "": ""
+}{
+  "Txn Date": "7/1/21",
+  "Value Date": "7/1/21",
+  "Description": "TO TRANSFER-UPI/DR/118209494324/NANDA GO/UTIB/9962595747/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097843162098",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "31,552.06",
+  "": ""
+}{
+  "Txn Date": "7/1/21",
+  "Value Date": "7/1/21",
+  "Description": "TO TRANSFER-UPI/DR/118219074987/Pizza Hut/UTIB/pizzahut.r/Pizz--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692546162096",
+  "Debit": "623.70",
+  "Credit": "",
+  "Balance": "30,928.36",
+  "": ""
+}{
+  "Txn Date": "7/2/21",
+  "Value Date": "7/2/21",
+  "Description": "BULK POSTING-ACHCr HDFC00891000009890 Asian Paints L--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "14.50",
+  "Balance": "30,942.86",
+  "": ""
+}{
+  "Txn Date": "7/3/21",
+  "Value Date": "7/3/21",
+  "Description": "BY TRANSFER-UPI/CR/118471884383/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098696162096",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "40,942.86",
+  "": ""
+}{
+  "Txn Date": "7/3/21",
+  "Value Date": "7/3/21",
+  "Description": "BY TRANSFER-UPI/CR/118465908887/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099212162092",
+  "Debit": "",
+  "Credit": "40,000.00",
+  "Balance": "80,942.86",
+  "": ""
+}{
+  "Txn Date": "7/3/21",
+  "Value Date": "7/3/21",
+  "Description": "TO TRANSFER-UPI/DR/118408830526/Paytm/PYTM/add-money@/Oid14150--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692644162095",
+  "Debit": "50.00",
+  "Credit": "",
+  "Balance": "80,892.86",
+  "": ""
+}{
+  "Txn Date": "7/4/21",
+  "Value Date": "7/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN521185142333--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRQ5259292                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "78,892.86",
+  "": ""
+}{
+  "Txn Date": "7/4/21",
+  "Value Date": "7/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN521185152153--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRQ5259218                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "68,892.86",
+  "": ""
+}{
+  "Txn Date": "7/4/21",
+  "Value Date": "7/4/21",
+  "Description": "TO TRANSFER-UPI/DR/118553239529/BALAPRAS/HDFC/8124831208/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694430162092",
+  "Debit": "50,000.00",
+  "Credit": "",
+  "Balance": "18,892.86",
+  "": ""
+}{
+  "Txn Date": "7/4/21",
+  "Value Date": "7/4/21",
+  "Description": "TO TRANSFER-UPI/DR/118512045604/Prabhude/SBIN/prabudeva7/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694498162094",
+  "Debit": "3,000.00",
+  "Credit": "",
+  "Balance": "15,892.86",
+  "": ""
+}{
+  "Txn Date": "7/6/21",
+  "Value Date": "7/6/21",
+  "Description": "TO TRANSFER-UPI/DR/118725048019/CCAVENUES/ICIC/ccavenues@/coll--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692469162094",
+  "Debit": "10,500.00",
+  "Credit": "",
+  "Balance": "5,392.86",
+  "": ""
+}{
+  "Txn Date": "7/7/21",
+  "Value Date": "7/7/21",
+  "Description": "BULK POSTING-ACHCr HDFC00541000009188 The Tata Power--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "15.50",
+  "Balance": "5,408.36",
+  "": ""
+}{
+  "Txn Date": "7/8/21",
+  "Value Date": "7/8/21",
+  "Description": "TO TRANSFER-UPI/DR/118900387524/SATHEESH/KVBL/satheeshk1/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898872162092",
+  "Debit": "300.00",
+  "Credit": "",
+  "Balance": "5,108.36",
+  "": ""
+}{
+  "Txn Date": "7/8/21",
+  "Value Date": "7/8/21",
+  "Description": "TO TRANSFER-UPI/DR/118913420732/Zerodha/ICIC/zerodha.ra/813171--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692569162090",
+  "Debit": "2,500.00",
+  "Credit": "",
+  "Balance": "2,608.36",
+  "": ""
+}{
+  "Txn Date": "7/9/21",
+  "Value Date": "7/9/21",
+  "Description": "TO TRANSFER-UPI/DR/119062802163/Zerodha/ICIC/zerodha.ra/Zerodh--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097902162093",
+  "Debit": "2,200.00",
+  "Credit": "",
+  "Balance": "408.36",
+  "": ""
+}{
+  "Txn Date": "7/9/21",
+  "Value Date": "7/9/21",
+  "Description": "BY TRANSFER-UPI/CR/119047320857/PRAVIN N/BARB/9940264330/Inves--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099127162099",
+  "Debit": "",
+  "Credit": "2,320.00",
+  "Balance": "2,728.36",
+  "": ""
+}{
+  "Txn Date": "7/9/21",
+  "Value Date": "7/9/21",
+  "Description": "TO TRANSFER-UPI/DR/119045198581/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097887162097",
+  "Debit": "2,320.00",
+  "Credit": "",
+  "Balance": "408.36",
+  "": ""
+}{
+  "Txn Date": "7/11/21",
+  "Value Date": "7/11/21",
+  "Description": "BY TRANSFER-UPI/CR/119204544333/PRAVIN N/BARB/9940264330/Paytm--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693712162092",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "1,408.36",
+  "": ""
+}{
+  "Txn Date": "7/11/21",
+  "Value Date": "7/11/21",
+  "Description": "TO TRANSFER-UPI/DR/119238062614/Paytm/PYTM/add-money@/Oid14253--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692677162097",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "408.36",
+  "": ""
+}{
+  "Txn Date": "7/13/21",
+  "Value Date": "7/13/21",
+  "Description": "BY TRANSFER-UPI/CR/119482337948/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098890162093",
+  "Debit": "",
+  "Credit": "900.00",
+  "Balance": "1,308.36",
+  "": ""
+}{
+  "Txn Date": "7/13/21",
+  "Value Date": "7/13/21",
+  "Description": "TO TRANSFER-UPI/DR/119492928851/Paytm/PYTM/add-money@/Oid14272--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097621162092",
+  "Debit": "900.00",
+  "Credit": "",
+  "Balance": "408.36",
+  "": ""
+}{
+  "Txn Date": "7/14/21",
+  "Value Date": "7/14/21",
+  "Description": "BY TRANSFER-UPI/CR/119501342862/GOOGLEPAY/UTIB/goog-payme/Earn--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098973162092",
+  "Debit": "",
+  "Credit": "4.00",
+  "Balance": "412.36",
+  "": ""
+}{
+  "Txn Date": "7/15/21",
+  "Value Date": "7/15/21",
+  "Description": "TO TRANSFER-UPI/DR/119648541092/Paytm/PYTM/add-money@/Oid14295--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692555162095",
+  "Debit": "300.00",
+  "Credit": "",
+  "Balance": "112.36",
+  "": ""
+}{
+  "Txn Date": "7/16/21",
+  "Value Date": "7/16/21",
+  "Description": "BY TRANSFER-UPI/CR/119716191946/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099123162093",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "1,112.36",
+  "": ""
+}{
+  "Txn Date": "7/16/21",
+  "Value Date": "7/16/21",
+  "Description": "TO TRANSFER-UPI/DR/119743025474/SRI PALA/HDFC/sripalania/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097875162091",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "112.36",
+  "": ""
+}{
+  "Txn Date": "7/18/21",
+  "Value Date": "7/18/21",
+  "Description": "BY TRANSFER-UPI/119743025474/REVERSAL--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4897695162091",
+  "Debit": "",
+  "Credit": "7.50",
+  "Balance": "119.86",
+  "": ""
+}{
+  "Txn Date": "7/19/21",
+  "Value Date": "7/19/21",
+  "Description": "BY TRANSFER-UPI/CR/120046279160/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098852162099",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "1,119.86",
+  "": ""
+}{
+  "Txn Date": "7/19/21",
+  "Value Date": "7/19/21",
+  "Description": "TO TRANSFER-UPI/DR/120008340098/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097521162095",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "119.86",
+  "": ""
+}{
+  "Txn Date": "7/26/21",
+  "Value Date": "7/26/21",
+  "Description": "BY TRANSFER-UPI/CR/120749163623/PRAVIN N/BARB/9940264330/Cc pa--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693079162099",
+  "Debit": "",
+  "Credit": "5,317.00",
+  "Balance": "5,436.86",
+  "": ""
+}{
+  "Txn Date": "7/26/21",
+  "Value Date": "7/26/21",
+  "Description": "TO TRANSFER-UPI/DR/120711276610/CRED/UTIB/cred@axisb/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692453162091",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "3,436.86",
+  "": ""
+}{
+  "Txn Date": "7/26/21",
+  "Value Date": "7/26/21",
+  "Description": "TO TRANSFER-UPI/DR/120711403079/CRED/UTIB/cred@axisb/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692453162091",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "1,436.86",
+  "": ""
+}{
+  "Txn Date": "7/26/21",
+  "Value Date": "7/26/21",
+  "Description": "TO TRANSFER-UPI/DR/120705340226/Cred/YESB/credcc@yes/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097542162090",
+  "Debit": "1,317.00",
+  "Credit": "",
+  "Balance": "119.86",
+  "": ""
+}{
+  "Txn Date": "7/30/21",
+  "Value Date": "7/30/21",
+  "Description": "BY TRANSFER-NEFT*CITI0100000*CITIN21211478924*TATA CONSULTANCY--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199680044308",
+  "Debit": "",
+  "Credit": "59,229.00",
+  "Balance": "59,348.86",
+  "": ""
+}{
+  "Txn Date": "7/30/21",
+  "Value Date": "7/30/21",
+  "Description": "TO TRANSFER-UPI/DR/121119409295/PRAVIN N/BARB/9940264330/Retur--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694261162094",
+  "Debit": "18,000.00",
+  "Credit": "",
+  "Balance": "41,348.86",
+  "": ""
+}{
+  "Txn Date": "7/30/21",
+  "Value Date": "7/30/21",
+  "Description": "TO TRANSFER-UPI/DR/121150419329/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694243162095",
+  "Debit": "306.00",
+  "Credit": "",
+  "Balance": "41,042.86",
+  "": ""
+}{
+  "Txn Date": "8/1/21",
+  "Value Date": "8/1/21",
+  "Description": "TO TRANSFER-UPI/DR/121304247636/Ganga Sw/YESB/Q72946054@/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898759162092",
+  "Debit": "122.00",
+  "Credit": "",
+  "Balance": "40,920.86",
+  "": ""
+}{
+  "Txn Date": "8/2/21",
+  "Value Date": "8/2/21",
+  "Description": "TO TRANSFER-UPI/DR/121430455136/PRAVIN N/BARB/9940264330/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693757162099",
+  "Debit": "10,500.00",
+  "Credit": "",
+  "Balance": "30,420.86",
+  "": ""
+}{
+  "Txn Date": "8/4/21",
+  "Value Date": "8/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN521216830651--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRQ8209013                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "28,420.86",
+  "": ""
+}{
+  "Txn Date": "8/4/21",
+  "Value Date": "8/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN521216838178--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRQ8208744                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "18,420.86",
+  "": ""
+}{
+  "Txn Date": "8/4/21",
+  "Value Date": "8/4/21",
+  "Description": "TO TRANSFER-UPI/DR/121687746395/JOTI  am/IBKL/1000210317/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097713162098",
+  "Debit": "255.00",
+  "Credit": "",
+  "Balance": "18,165.86",
+  "": ""
+}{
+  "Txn Date": "8/4/21",
+  "Value Date": "8/4/21",
+  "Description": "TO TRANSFER-UPI/DR/121629415596/Sagara J/PYTM/paytmqr281/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097721162098",
+  "Debit": "90.00",
+  "Credit": "",
+  "Balance": "18,075.86",
+  "": ""
+}{
+  "Txn Date": "8/5/21",
+  "Value Date": "8/5/21",
+  "Description": "BULK POSTING-ACHCr UTIB01853000028122 TCSINTDiv05082--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "7.00",
+  "Balance": "18,082.86",
+  "": ""
+}{
+  "Txn Date": "8/6/21",
+  "Value Date": "8/6/21",
+  "Description": "TO TRANSFER-UPI/DR/121829900580/B P ANNA/YESB/Q68775753@/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692595162098",
+  "Debit": "200.00",
+  "Credit": "",
+  "Balance": "17,882.86",
+  "": ""
+}{
+  "Txn Date": "8/8/21",
+  "Value Date": "8/8/21",
+  "Description": "TO TRANSFER-UPI/DR/122049734421/K G N AA/PYTM/paytmqr281/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692666162090",
+  "Debit": "300.00",
+  "Credit": "",
+  "Balance": "17,582.86",
+  "": ""
+}{
+  "Txn Date": "8/9/21",
+  "Value Date": "8/9/21",
+  "Description": "TO TRANSFER-UPI/DR/122190915432/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692448162098",
+  "Debit": "2,500.00",
+  "Credit": "",
+  "Balance": "15,082.86",
+  "": ""
+}{
+  "Txn Date": "8/9/21",
+  "Value Date": "8/9/21",
+  "Description": "TO TRANSFER-UPI/DR/122148669583/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693833162093",
+  "Debit": "225.00",
+  "Credit": "",
+  "Balance": "14,857.86",
+  "": ""
+}{
+  "Txn Date": "8/10/21",
+  "Value Date": "8/10/21",
+  "Description": "BULK POSTING-ACHCr HDFC01136000010452 HERO MOTOCORP--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "35.00",
+  "Balance": "14,892.86",
+  "": ""
+}{
+  "Txn Date": "8/11/21",
+  "Value Date": "8/11/21",
+  "Description": "BULK POSTING-ACHCr HDFC01701000013943 COROMANDEL INT--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "12.00",
+  "Balance": "14,904.86",
+  "": ""
+}{
+  "Txn Date": "8/12/21",
+  "Value Date": "8/12/21",
+  "Description": "TO TRANSFER-UPI/DR/122438907411/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099559162096",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "9,904.86",
+  "": ""
+}{
+  "Txn Date": "8/13/21",
+  "Value Date": "8/13/21",
+  "Description": "BULK POSTING-ACHCr IBKL00249000010274 ITC LIMITED--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "58.00",
+  "Balance": "9,962.86",
+  "": ""
+}{
+  "Txn Date": "8/15/21",
+  "Value Date": "8/15/21",
+  "Description": "by debit card-OTHPOS122705021986FIPOLA MOGAPPAIR      TIRUVALLUR--",
+  "Ref No./Cheque No.": "",
+  "Debit": "378.14",
+  "Credit": "",
+  "Balance": "9,584.72",
+  "": ""
+}{
+  "Txn Date": "8/17/21",
+  "Value Date": "8/17/21",
+  "Description": "TO TRANSFER-UPI/DR/122977096980/THE CAKE/YESB/Q08370332@/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097646162093",
+  "Debit": "398.50",
+  "Credit": "",
+  "Balance": "9,186.22",
+  "": ""
+}{
+  "Txn Date": "8/19/21",
+  "Value Date": "8/19/21",
+  "Description": "by debit card-OTHPOS123104715732SRI PALANIAPPA AGENCIECHENNAI--",
+  "Ref No./Cheque No.": "",
+  "Debit": "200.00",
+  "Credit": "",
+  "Balance": "8,986.22",
+  "": ""
+}{
+  "Txn Date": "8/20/21",
+  "Value Date": "8/20/21",
+  "Description": "BY TRANSFER-NEFT*CITI0100000*CITIN21222485332*TATA CONSULTANCY--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199423044304",
+  "Debit": "",
+  "Credit": "99,898.00",
+  "Balance": "1,08,884.22",
+  "": ""
+}{
+  "Txn Date": "8/22/21",
+  "Value Date": "8/22/21",
+  "Description": "TO TRANSFER-UPI/DR/123471089000/KOTTAYAM/FDRL/BHARATPE.9/Verif--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692699162091",
+  "Debit": "63.00",
+  "Credit": "",
+  "Balance": "1,08,821.22",
+  "": ""
+}{
+  "Txn Date": "8/23/21",
+  "Value Date": "8/23/21",
+  "Description": "BULK POSTING-     00000000000 190821 SRI PALANIAPPA AGENCIE--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "1.50",
+  "Balance": "1,08,822.72",
+  "": ""
+}{
+  "Txn Date": "8/24/21",
+  "Value Date": "8/24/21",
+  "Description": "TO TRANSFER-UPI/DR/123636392711/Bharti A/SBIN/bhartiairt/Bhart--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898279162097",
+  "Debit": "379.00",
+  "Credit": "",
+  "Balance": "1,08,443.72",
+  "": ""
+}{
+  "Txn Date": "8/25/21",
+  "Value Date": "8/25/21",
+  "Description": "TO TRANSFER-UPI/DR/123701455383/MEYYAPPA/HDFC/9962875940/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4897666162096",
+  "Debit": "655.00",
+  "Credit": "",
+  "Balance": "1,07,788.72",
+  "": ""
+}{
+  "Txn Date": "8/26/21",
+  "Value Date": "8/26/21",
+  "Description": "TO TRANSFER-UPI/DR/123870995378/CAKE ONE/HDFC/cakeoneswe/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097788162090",
+  "Debit": "360.00",
+  "Credit": "",
+  "Balance": "1,07,428.72",
+  "": ""
+}{
+  "Txn Date": "8/28/21",
+  "Value Date": "8/28/21",
+  "Description": "TO TRANSFER-UPI/DR/124011931669/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694372162098",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "1,06,428.72",
+  "": ""
+}{
+  "Txn Date": "8/28/21",
+  "Value Date": "8/28/21",
+  "Description": "TO TRANSFER-UPI/DR/124062615958/PRAVIN/DBSS/pravinn@db/Payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694335162092",
+  "Debit": "50,000.00",
+  "Credit": "",
+  "Balance": "56,428.72",
+  "": ""
+}{
+  "Txn Date": "8/28/21",
+  "Value Date": "8/28/21",
+  "Description": "TO TRANSFER-UPI/DR/124020291134/RIYASUDE/IOBA/rjriyasude/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694372162098",
+  "Debit": "500.00",
+  "Credit": "",
+  "Balance": "55,928.72",
+  "": ""
+}{
+  "Txn Date": "8/30/21",
+  "Value Date": "8/30/21",
+  "Description": "TO TRANSFER-UPI/DR/124260063270/IRCTC Ap/PYTM/paytm-irct/Oid10--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692439162099",
+  "Debit": "762.29",
+  "Credit": "",
+  "Balance": "55,166.43",
+  "": ""
+}{
+  "Txn Date": "9/1/21",
+  "Value Date": "9/1/21",
+  "Description": "TO TRANSFER-UPI/DR/124435237198/Paytm Re/PYTM/paybil3066/Oid14--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097724162095",
+  "Debit": "298.42",
+  "Credit": "",
+  "Balance": "54,868.01",
+  "": ""
+}{
+  "Txn Date": "9/1/21",
+  "Value Date": "9/1/21",
+  "Description": "TO TRANSFER-UPI/DR/124418689829/S SARATHY/IOBA/jerrysarat/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694013162098",
+  "Debit": "40.00",
+  "Credit": "",
+  "Balance": "54,828.01",
+  "": ""
+}{
+  "Txn Date": "9/2/21",
+  "Value Date": "9/2/21",
+  "Description": "BULK POSTING-ACHCr IBKL00606000011426 JK TYRE AND IN--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "6.00",
+  "Balance": "54,834.01",
+  "": ""
+}{
+  "Txn Date": "9/4/21",
+  "Value Date": "9/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321247304529--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRR1468646                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "52,834.01",
+  "": ""
+}{
+  "Txn Date": "9/4/21",
+  "Value Date": "9/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321247304248--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRR1468570                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "42,834.01",
+  "": ""
+}{
+  "Txn Date": "9/4/21",
+  "Value Date": "9/4/21",
+  "Description": "BY TRANSFER-UPI/CR/124778715055/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693635162099",
+  "Debit": "",
+  "Credit": "12,000.00",
+  "Balance": "54,834.01",
+  "": ""
+}{
+  "Txn Date": "9/5/21",
+  "Value Date": "9/5/21",
+  "Description": "TO TRANSFER-UPI/DR/124808145786/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098062162097",
+  "Debit": "3,500.00",
+  "Credit": "",
+  "Balance": "51,334.01",
+  "": ""
+}{
+  "Txn Date": "9/5/21",
+  "Value Date": "9/5/21",
+  "Description": "BY TRANSFER-UPI/CR/124839690230/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693707162098",
+  "Debit": "",
+  "Credit": "3,500.00",
+  "Balance": "54,834.01",
+  "": ""
+}{
+  "Txn Date": "9/7/21",
+  "Value Date": "9/7/21",
+  "Description": "BULK POSTING-ACHCr UTIB01797000027319 SUN TV NETWORK--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "56.25",
+  "Balance": "54,890.26",
+  "": ""
+}{
+  "Txn Date": "9/7/21",
+  "Value Date": "9/7/21",
+  "Description": "TO TRANSFER-UPI/DR/125012705029/Zerodha/ICIC/zerodha.ra/721013--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692470162090",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "53,890.26",
+  "": ""
+}{
+  "Txn Date": "9/7/21",
+  "Value Date": "9/7/21",
+  "Description": "TO TRANSFER-UPI/DR/125056104174/Zerodha/ICIC/zerodha.ra/721013--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692468162095",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "52,890.26",
+  "": ""
+}{
+  "Txn Date": "9/7/21",
+  "Value Date": "9/7/21",
+  "Description": "BY TRANSFER-UPI/REV/125056104174--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4692468162095",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "53,890.26",
+  "": ""
+}{
+  "Txn Date": "9/7/21",
+  "Value Date": "9/7/21",
+  "Description": "BY TRANSFER-UPI/CR/125010064377/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693151162097",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "54,890.26",
+  "": ""
+}{
+  "Txn Date": "9/8/21",
+  "Value Date": "9/8/21",
+  "Description": "TO TRANSFER-UPI/DR/125114917983/SATHISHK/BARB/sathish199/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694075162095",
+  "Debit": "120.00",
+  "Credit": "",
+  "Balance": "54,770.26",
+  "": ""
+}{
+  "Txn Date": "9/9/21",
+  "Value Date": "9/9/21",
+  "Description": "BULK POSTING-ACHCr HDFC01427000011462 DABUR INDIA LI--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "6.00",
+  "Balance": "54,776.26",
+  "": ""
+}{
+  "Txn Date": "9/10/21",
+  "Value Date": "9/10/21",
+  "Description": "BY TRANSFER-UPI/CR/125349655083/KUNAL R /BARB/kunaldamwa/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693429162094",
+  "Debit": "",
+  "Credit": "170.00",
+  "Balance": "54,946.26",
+  "": ""
+}{
+  "Txn Date": "9/14/21",
+  "Value Date": "9/14/21",
+  "Description": "TO TRANSFER-UPI/DR/125720021965/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898830162090",
+  "Debit": "400.00",
+  "Credit": "",
+  "Balance": "54,546.26",
+  "": ""
+}{
+  "Txn Date": "9/20/21",
+  "Value Date": "9/20/21",
+  "Description": "BULK POSTING-ACHCr UTIB01584000023667 Zee Entertainm--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "127.50",
+  "Balance": "54,673.76",
+  "": ""
+}{
+  "Txn Date": "9/21/21",
+  "Value Date": "9/21/21",
+  "Description": "TO TRANSFER-UPI/DR/126474107126/Sree Gup/PYTM/paytm-6462/Oid20--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097636162095",
+  "Debit": "69.00",
+  "Credit": "",
+  "Balance": "54,604.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "TO TRANSFER-UPI/DR/126808662661/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098025162091",
+  "Debit": "6,000.00",
+  "Credit": "",
+  "Balance": "48,604.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "TO TRANSFER-UPI/DR/126808658747/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694391162095",
+  "Debit": "400.00",
+  "Credit": "",
+  "Balance": "48,204.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126851816267/AMEENBAS/UTIB/ameenbasha/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693546162099",
+  "Debit": "",
+  "Credit": "800.00",
+  "Balance": "49,004.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126816404665/KAVITHA  M/KKBK/florriekav/Pay--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693533162094",
+  "Debit": "",
+  "Credit": "5,050.00",
+  "Balance": "54,054.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126891889152/VIJAYARA/HDFC/vjraja22@o/Lunch--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4897722162093",
+  "Debit": "",
+  "Credit": "1,400.00",
+  "Balance": "55,454.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "TO TRANSFER-UPI/DR/126819654690/AMEENBAS/UTIB/ameenbasha/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098047162095",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "55,354.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126849811540/B R BALU/ICIC/balurangan/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693530162096",
+  "Debit": "",
+  "Credit": "700.00",
+  "Balance": "56,054.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "TO TRANSFER-UPI/DR/126819351137/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098030162093",
+  "Debit": "6,500.00",
+  "Credit": "",
+  "Balance": "49,554.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126850319563/R SHYAM /ICIC/shyamu19@o/Coal--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098681162093",
+  "Debit": "",
+  "Credit": "1,034.00",
+  "Balance": "50,588.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "BY TRANSFER-UPI/CR/126855625523/GILBERT /UTIB/victorgilb/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099178162099",
+  "Debit": "",
+  "Credit": "700.00",
+  "Balance": "51,288.76",
+  "": ""
+}{
+  "Txn Date": "9/25/21",
+  "Value Date": "9/25/21",
+  "Description": "CREDIT INTEREST---",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "228.00",
+  "Balance": "51,516.76",
+  "": ""
+}{
+  "Txn Date": "9/26/21",
+  "Value Date": "9/26/21",
+  "Description": "BY TRANSFER-UPI/CR/126897361577/VINODHRA/HDFC/vinodhraj./UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693740162097",
+  "Debit": "",
+  "Credit": "700.00",
+  "Balance": "52,216.76",
+  "": ""
+}{
+  "Txn Date": "9/26/21",
+  "Value Date": "9/26/21",
+  "Description": "TO TRANSFER-UPI/DR/126912128585/CRED/UTIB/cred@axisb/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692687162095",
+  "Debit": "1,500.00",
+  "Credit": "",
+  "Balance": "50,716.76",
+  "": ""
+}{
+  "Txn Date": "9/26/21",
+  "Value Date": "9/26/21",
+  "Description": "BY TRANSFER-UPI/CR/126956135928/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099304162098",
+  "Debit": "",
+  "Credit": "1,500.00",
+  "Balance": "52,216.76",
+  "": ""
+}{
+  "Txn Date": "9/27/21",
+  "Value Date": "9/27/21",
+  "Description": "BULK POSTING-ACHCr HDFC02166000016650 ASHOK LEYLAND--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "6.00",
+  "Balance": "52,222.76",
+  "": ""
+}{
+  "Txn Date": "9/28/21",
+  "Value Date": "9/28/21",
+  "Description": "TO TRANSFER-UPI/DR/127112656553/CRED/UTIB/cred@axisb/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097642162097",
+  "Debit": "3,893.19",
+  "Credit": "",
+  "Balance": "48,329.57",
+  "": ""
+}{
+  "Txn Date": "9/30/21",
+  "Value Date": "9/30/21",
+  "Description": "BY TRANSFER-UPI/CR/127339329668/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098513162097",
+  "Debit": "",
+  "Credit": "3,893.00",
+  "Balance": "52,222.57",
+  "": ""
+}{
+  "Txn Date": "10/1/21",
+  "Value Date": "10/1/21",
+  "Description": "TO TRANSFER-UPI/DR/127419342576/BALACHAN/SBIN/kavibala27/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099690162094",
+  "Debit": "1,540.00",
+  "Credit": "",
+  "Balance": "50,682.57",
+  "": ""
+}{
+  "Txn Date": "10/1/21",
+  "Value Date": "10/1/21",
+  "Description": "BY TRANSFER-UPI/CR/127458848942/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693566162096",
+  "Debit": "",
+  "Credit": "1,540.00",
+  "Balance": "52,222.57",
+  "": ""
+}{
+  "Txn Date": "10/2/21",
+  "Value Date": "10/2/21",
+  "Description": "BY TRANSFER-UPI/CR/127572583312/GOOGLEPAY/UTIB/goog-payme/Earn--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098679162097",
+  "Debit": "",
+  "Credit": "4.00",
+  "Balance": "52,226.57",
+  "": ""
+}{
+  "Txn Date": "10/3/21",
+  "Value Date": "10/3/21",
+  "Description": "BY TRANSFER-UPI/CR/127648440428/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099290162098",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "62,226.57",
+  "": ""
+}{
+  "Txn Date": "10/3/21",
+  "Value Date": "10/3/21",
+  "Description": "BY TRANSFER-UPI/CR/127688618964/BHARATH /KKBK/bharathkrv/Flipk--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099280162090",
+  "Debit": "",
+  "Credit": "6,592.00",
+  "Balance": "68,818.57",
+  "": ""
+}{
+  "Txn Date": "10/3/21",
+  "Value Date": "10/3/21",
+  "Description": "TO TRANSFER-UPI/DR/127614619144/CRED/UTIB/cred@axisb/payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098076162091",
+  "Debit": "6,000.00",
+  "Credit": "",
+  "Balance": "62,818.57",
+  "": ""
+}{
+  "Txn Date": "10/4/21",
+  "Value Date": "10/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321277571490--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRR4563898                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "52,818.57",
+  "": ""
+}{
+  "Txn Date": "10/4/21",
+  "Value Date": "10/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN321277574474--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRR4564365                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "50,818.57",
+  "": ""
+}{
+  "Txn Date": "10/12/21",
+  "Value Date": "10/12/21",
+  "Description": "BY TRANSFER-UPI/CR/128513256663/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098896162098",
+  "Debit": "",
+  "Credit": "5,500.00",
+  "Balance": "56,318.57",
+  "": ""
+}{
+  "Txn Date": "10/13/21",
+  "Value Date": "10/13/21",
+  "Description": "DEBIT-UPI/ABSLAMC/IPO/Manual--",
+  "Ref No./Cheque No.": "",
+  "Debit": "14,240.00",
+  "Credit": "",
+  "Balance": "42,078.57",
+  "": ""
+}{
+  "Txn Date": "10/16/21",
+  "Value Date": "10/16/21",
+  "Description": "BULK POSTING-     00000004285 090321 LAKSHMI KANTHAM SERVIC--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "3.75",
+  "Balance": "42,082.32",
+  "": ""
+}{
+  "Txn Date": "10/18/21",
+  "Value Date": "10/18/21",
+  "Description": "TO TRANSFER-UPI/DR/129114011527/Zerodha/ICIC/zerodha.ra/814373--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692441162095",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "41,982.32",
+  "": ""
+}{
+  "Txn Date": "10/20/21",
+  "Value Date": "10/20/21",
+  "Description": "TO TRANSFER-UPI/DR/129308646900/BHARATH /KKBK/bharathkrv/refun--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694060162091",
+  "Debit": "317.00",
+  "Credit": "",
+  "Balance": "41,665.32",
+  "": ""
+}{
+  "Txn Date": "10/20/21",
+  "Value Date": "10/20/21",
+  "Description": "TO TRANSFER-UPI/DR/129366906479/Mr SENTH/YESB/Q40723214@/Payme--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692534162090",
+  "Debit": "10.00",
+  "Credit": "",
+  "Balance": "41,655.32",
+  "": ""
+}{
+  "Txn Date": "10/21/21",
+  "Value Date": "10/21/21",
+  "Description": "BULK POSTING-ACHCr SBIN01680000014926 NHPC LIMITED--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "11.55",
+  "Balance": "41,666.87",
+  "": ""
+}{
+  "Txn Date": "10/21/21",
+  "Value Date": "10/21/21",
+  "Description": "BULK POSTING-     00000004285 090321 LAKSHMI KANTHAM SERVIC--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "3.75",
+  "Balance": "41,670.62",
+  "": ""
+}{
+  "Txn Date": "10/28/21",
+  "Value Date": "10/28/21",
+  "Description": "TO TRANSFER-UPI/DR/130152472983/Zerodha/ICIC/zerodha.ra/810155--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097832162091",
+  "Debit": "9,260.00",
+  "Credit": "",
+  "Balance": "32,410.62",
+  "": ""
+}{
+  "Txn Date": "10/28/21",
+  "Value Date": "10/28/21",
+  "Description": "BY TRANSFER-UPI/CR/130148778510/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098500162090",
+  "Debit": "",
+  "Credit": "9,260.00",
+  "Balance": "41,670.62",
+  "": ""
+}{
+  "Txn Date": "10/28/21",
+  "Value Date": "10/28/21",
+  "Description": "TO TRANSFER-UPI/DR/130168130032/Zerodha/ICIC/zerodha.ra/813585--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692578162099",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "36,670.62",
+  "": ""
+}{
+  "Txn Date": "10/28/21",
+  "Value Date": "10/28/21",
+  "Description": "TO TRANSFER-UPI/DR/130134676468/NPS TRUS/HDFC/npstrust.b/Pay--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692577162090",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "35,670.62",
+  "": ""
+}{
+  "Txn Date": "10/28/21",
+  "Value Date": "10/28/21",
+  "Description": "BY TRANSFER-UPI/CR/130133633330/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099084162094",
+  "Debit": "",
+  "Credit": "1,000.00",
+  "Balance": "36,670.62",
+  "": ""
+}{
+  "Txn Date": "10/29/21",
+  "Value Date": "10/29/21",
+  "Description": "TO TRANSFER-UPI/DR/130210930791/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097894162098",
+  "Debit": "6,850.00",
+  "Credit": "",
+  "Balance": "29,820.62",
+  "": ""
+}{
+  "Txn Date": "10/29/21",
+  "Value Date": "10/29/21",
+  "Description": "BY TRANSFER-UPI/CR/130217960035/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098607162091",
+  "Debit": "",
+  "Credit": "6,580.00",
+  "Balance": "36,400.62",
+  "": ""
+}{
+  "Txn Date": "10/30/21",
+  "Value Date": "10/30/21",
+  "Description": "BY TRANSFER-UPI/CR/130312880781/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4898993162094",
+  "Debit": "",
+  "Credit": "5,000.00",
+  "Balance": "41,400.62",
+  "": ""
+}{
+  "Txn Date": "11/1/21",
+  "Value Date": "11/1/21",
+  "Description": "TO TRANSFER-UPI/DR/130568431280/CCAVENUES/ICIC/ccavenues@/coll--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692452162092",
+  "Debit": "10,500.00",
+  "Credit": "",
+  "Balance": "30,900.62",
+  "": ""
+}{
+  "Txn Date": "11/1/21",
+  "Value Date": "11/1/21",
+  "Description": "BY TRANSFER-UPI/CR/130524220675/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098816162093",
+  "Debit": "",
+  "Credit": "10,500.00",
+  "Balance": "41,400.62",
+  "": ""
+}{
+  "Txn Date": "11/1/21",
+  "Value Date": "11/1/21",
+  "Description": "TO TRANSFER-UPI/DR/130551111124/Zerodha /HDFC/zerodhabro/Coin--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097526162090",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "40,400.62",
+  "": ""
+}{
+  "Txn Date": "11/2/21",
+  "Value Date": "11/2/21",
+  "Description": "BULK POSTING-ACHCr NACH00000000058141 Rashtriya Chem--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "222.50",
+  "Balance": "40,623.12",
+  "": ""
+}{
+  "Txn Date": "11/3/21",
+  "Value Date": "11/3/21",
+  "Description": "BULK POSTING-ACHCr SBIN00882000011904 TCSINTDiv03112--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "7.00",
+  "Balance": "40,630.12",
+  "": ""
+}{
+  "Txn Date": "11/4/21",
+  "Value Date": "11/4/21",
+  "Description": "TO TRANSFER-UPI/DR/130818993736/Zerodha/ICIC/zerodha.ra/400260--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097829162096",
+  "Debit": "104.00",
+  "Credit": "",
+  "Balance": "40,526.12",
+  "": ""
+}{
+  "Txn Date": "11/4/21",
+  "Value Date": "11/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN221308953187--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRR8148696                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "30,526.12",
+  "": ""
+}{
+  "Txn Date": "11/4/21",
+  "Value Date": "11/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN221308953640--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRR8148937                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "28,526.12",
+  "": ""
+}{
+  "Txn Date": "11/4/21",
+  "Value Date": "11/4/21",
+  "Description": "TO TRANSFER-UPI/DR/130840054381/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097790162095",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "28,426.12",
+  "": ""
+}{
+  "Txn Date": "11/5/21",
+  "Value Date": "11/5/21",
+  "Description": "BY TRANSFER-UPI/CR/130973149090/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098602162096",
+  "Debit": "",
+  "Credit": "12,204.00",
+  "Balance": "40,630.12",
+  "": ""
+}{
+  "Txn Date": "11/7/21",
+  "Value Date": "11/7/21",
+  "Description": "TO TRANSFER-UPI/DR/131107468213/NPS TRUS/HDFC/npstrust.b/XBCMF--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692667162099",
+  "Debit": "1,500.00",
+  "Credit": "",
+  "Balance": "39,130.12",
+  "": ""
+}{
+  "Txn Date": "11/8/21",
+  "Value Date": "11/8/21",
+  "Description": "BY TRANSFER-UPI/CR/131252469657/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098807162093",
+  "Debit": "",
+  "Credit": "1,500.00",
+  "Balance": "40,630.12",
+  "": ""
+}{
+  "Txn Date": "11/9/21",
+  "Value Date": "11/9/21",
+  "Description": "TO TRANSFER-UPI/DR/131317501900/BALACHAN/SBIN/kavibala27/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099417162090",
+  "Debit": "400.00",
+  "Credit": "",
+  "Balance": "40,230.12",
+  "": ""
+}{
+  "Txn Date": "11/9/21",
+  "Value Date": "11/9/21",
+  "Description": "TO TRANSFER-UPI/DR/131316022148/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692464162099",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "38,230.12",
+  "": ""
+}{
+  "Txn Date": "11/9/21",
+  "Value Date": "11/9/21",
+  "Description": "BY TRANSFER-UPI/CR/131390761303/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693094162090",
+  "Debit": "",
+  "Credit": "2,500.00",
+  "Balance": "40,730.12",
+  "": ""
+}{
+  "Txn Date": "11/10/21",
+  "Value Date": "11/10/21",
+  "Description": "BULK POSTING-ACHCr UTIB01988000029402 INFOSYS LIMITE--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "240.00",
+  "Balance": "40,970.12",
+  "": ""
+}{
+  "Txn Date": "11/10/21",
+  "Value Date": "11/10/21",
+  "Description": "BULK POSTING-ACHCr HDFC00891000009890 AsianPaintsLim--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "3.65",
+  "Balance": "40,973.77",
+  "": ""
+}{
+  "Txn Date": "11/12/21",
+  "Value Date": "11/12/21",
+  "Description": "BULK POSTING-ACHCr HDFC02241000016754 HINDUSTANUNILE--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "15.00",
+  "Balance": "40,988.77",
+  "": ""
+}{
+  "Txn Date": "11/15/21",
+  "Value Date": "11/15/21",
+  "Description": "TO TRANSFER-UPI/DR/131910278172/BHARATH /KKBK/bharathkrv/shawa--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693773162090",
+  "Debit": "65.00",
+  "Credit": "",
+  "Balance": "40,923.77",
+  "": ""
+}{
+  "Txn Date": "11/15/21",
+  "Value Date": "11/15/21",
+  "Description": "BY TRANSFER-UPI/CR/131917333804/SANGAVI /HDFC/pgsangavi@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693023162094",
+  "Debit": "",
+  "Credit": "210.00",
+  "Balance": "41,133.77",
+  "": ""
+}{
+  "Txn Date": "11/15/21",
+  "Value Date": "11/15/21",
+  "Description": "BY TRANSFER-UPI/CR/131959036682/BHARATH /KKBK/bharathkrv/Etern--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4899325162090",
+  "Debit": "",
+  "Credit": "210.00",
+  "Balance": "41,343.77",
+  "": ""
+}{
+  "Txn Date": "11/15/21",
+  "Value Date": "11/15/21",
+  "Description": "TO TRANSFER-UPI/DR/131913148399/KALAIYAR/HDFC/udhavumull/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693841162093",
+  "Debit": "100.00",
+  "Credit": "",
+  "Balance": "41,243.77",
+  "": ""
+}{
+  "Txn Date": "11/22/21",
+  "Value Date": "11/22/21",
+  "Description": "BULK POSTING-ACHCr NACH00000000021007 ADITYA BIRLA S--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "117.60",
+  "Balance": "41,361.37",
+  "": ""
+}{
+  "Txn Date": "11/22/21",
+  "Value Date": "11/22/21",
+  "Description": "BULK POSTING-ACHCr HDFC00396000008623 ColgatePalmoli--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "38.00",
+  "Balance": "41,399.37",
+  "": ""
+}{
+  "Txn Date": "11/23/21",
+  "Value Date": "11/23/21",
+  "Description": "BULK POSTING-ACHCr HDFC01695000013937 Marico Limited--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "42.00",
+  "Balance": "41,441.37",
+  "": ""
+}{
+  "Txn Date": "11/23/21",
+  "Value Date": "11/23/21",
+  "Description": "TO TRANSFER-UPI/DR/132718291262/SWIGGY/ICIC/upiswiggy@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898732162093",
+  "Debit": "131.00",
+  "Credit": "",
+  "Balance": "41,310.37",
+  "": ""
+}{
+  "Txn Date": "11/24/21",
+  "Value Date": "11/24/21",
+  "Description": "TO TRANSFER-UPI/DR/132818768258/M S ENTE/UBIN/mohanraj19/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097747162098",
+  "Debit": "950.00",
+  "Credit": "",
+  "Balance": "40,360.37",
+  "": ""
+}{
+  "Txn Date": "11/24/21",
+  "Value Date": "11/24/21",
+  "Description": "TO TRANSFER-UPI/DR/132819422964/BALAJI  R/SBIN/balajir978/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694062162090",
+  "Debit": "300.00",
+  "Credit": "",
+  "Balance": "40,060.37",
+  "": ""
+}{
+  "Txn Date": "11/25/21",
+  "Value Date": "11/25/21",
+  "Description": "BULK POSTING-ACHCr HDFC01427000011462 DABUR INDIA LI--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "5.00",
+  "Balance": "40,065.37",
+  "": ""
+}{
+  "Txn Date": "11/26/21",
+  "Value Date": "11/26/21",
+  "Description": "BY TRANSFER-UPI/CR/133047327909/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693469162097",
+  "Debit": "",
+  "Credit": "1,400.00",
+  "Balance": "41,465.37",
+  "": ""
+}{
+  "Txn Date": "11/27/21",
+  "Value Date": "11/27/21",
+  "Description": "TO TRANSFER-UPI/DR/133114606397/AMAZON/UTIB/amazon@apl/You are--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097966162099",
+  "Debit": "484.00",
+  "Credit": "",
+  "Balance": "40,981.37",
+  "": ""
+}{
+  "Txn Date": "11/30/21",
+  "Value Date": "11/30/21",
+  "Description": "BULK POSTING-ACHCr UTIB01797000027319 SUN TV NETWORK--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "75.00",
+  "Balance": "41,056.37",
+  "": ""
+}{
+  "Txn Date": "12/3/21",
+  "Value Date": "12/3/21",
+  "Description": "TO TRANSFER-UPI/DR/133711329159/A SETHU/UBIN/sethus661@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099640162093",
+  "Debit": "1,600.00",
+  "Credit": "",
+  "Balance": "39,456.37",
+  "": ""
+}{
+  "Txn Date": "12/3/21",
+  "Value Date": "12/3/21",
+  "Description": "BY TRANSFER-UPI/CR/133749237048/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4897720162094",
+  "Debit": "",
+  "Credit": "1,600.00",
+  "Balance": "41,056.37",
+  "": ""
+}{
+  "Txn Date": "12/4/21",
+  "Value Date": "12/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN221338254512--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRS0655498                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "31,056.37",
+  "": ""
+}{
+  "Txn Date": "12/4/21",
+  "Value Date": "12/4/21",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN221338257670--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRS0655803                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "29,056.37",
+  "": ""
+}{
+  "Txn Date": "12/4/21",
+  "Value Date": "12/4/21",
+  "Description": "BY TRANSFER-UPI/CR/133859748715/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099178162099",
+  "Debit": "",
+  "Credit": "12,000.00",
+  "Balance": "41,056.37",
+  "": ""
+}{
+  "Txn Date": "12/5/21",
+  "Value Date": "12/5/21",
+  "Description": "BY TRANSFER-UPI/CR/133950289271/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693676162091",
+  "Debit": "",
+  "Credit": "2,000.00",
+  "Balance": "43,056.37",
+  "": ""
+}{
+  "Txn Date": "12/5/21",
+  "Value Date": "12/5/21",
+  "Description": "TO TRANSFER-UPI/DR/133912981673/PRAVIN/DBSS/pravinn@db/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 4694424162091",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "41,056.37",
+  "": ""
+}{
+  "Txn Date": "12/6/21",
+  "Value Date": "12/6/21",
+  "Description": "BULK POSTING-ACHCr HDFC05271000025282 Rashtriya Chem--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "168.75",
+  "Balance": "41,225.12",
+  "": ""
+}{
+  "Txn Date": "12/11/21",
+  "Value Date": "12/11/21",
+  "Description": "BY TRANSFER-NEFT*YESB0000001*N345210900314783*ZERODHA BROKING--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199969044303",
+  "Debit": "",
+  "Credit": "99.09",
+  "Balance": "41,324.21",
+  "": ""
+}{
+  "Txn Date": "12/21/21",
+  "Value Date": "12/21/21",
+  "Description": "BY TRANSFER-UPI/CR/135570042746/SANGAVI /HDFC/pgsangavi@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098925162099",
+  "Debit": "",
+  "Credit": "21,000.00",
+  "Balance": "62,324.21",
+  "": ""
+}{
+  "Txn Date": "12/21/21",
+  "Value Date": "12/21/21",
+  "Description": "TO TRANSFER-UPI/DR/135541764712/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097653162094",
+  "Debit": "20,000.00",
+  "Credit": "",
+  "Balance": "42,324.21",
+  "": ""
+}{
+  "Txn Date": "12/23/21",
+  "Value Date": "12/23/21",
+  "Description": "TO TRANSFER-UPI/DR/135709899090/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692569162090",
+  "Debit": "2,550.00",
+  "Credit": "",
+  "Balance": "39,774.21",
+  "": ""
+}{
+  "Txn Date": "12/24/21",
+  "Value Date": "12/24/21",
+  "Description": "BY TRANSFER-UPI/CR/135824114640/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693470162093",
+  "Debit": "",
+  "Credit": "2,500.00",
+  "Balance": "42,274.21",
+  "": ""
+}{
+  "Txn Date": "12/25/21",
+  "Value Date": "12/25/21",
+  "Description": "CREDIT INTEREST---",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "290.00",
+  "Balance": "42,564.21",
+  "": ""
+}{
+  "Txn Date": "12/27/21",
+  "Value Date": "12/27/21",
+  "Description": "BY TRANSFER-UPI/CR/136104271666/SANGAVI /HDFC/pgsangavi@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693072162096",
+  "Debit": "",
+  "Credit": "355.00",
+  "Balance": "42,919.21",
+  "": ""
+}{
+  "Txn Date": "12/31/21",
+  "Value Date": "12/31/21",
+  "Description": "BY TRANSFER-UPI/CR/136542834608/BHARATH /KKBK/bharathkrv/83 Mo--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098581162096",
+  "Debit": "",
+  "Credit": "190.00",
+  "Balance": "43,109.21",
+  "": ""
+}{
+  "Txn Date": "1 Jan 2022",
+  "Value Date": "1 Jan 2022",
+  "Description": "BY TRANSFER-UPI/CR/200111603375/KAVITHA  M/KKBK/florriekav/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099190162092",
+  "Debit": "",
+  "Credit": "500.00",
+  "Balance": "43,609.21",
+  "": ""
+}{
+  "Txn Date": "1/4/22",
+  "Value Date": "1/4/22",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN222004999830--Parents",
+  "Ref No./Cheque No.": "NEFT INB: IRS3338862                               / Parents",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "33,609.21",
+  "": ""
+}{
+  "Txn Date": "1/4/22",
+  "Value Date": "1/4/22",
+  "Description": "TO TRANSFER-INB NEFT UTR NO: SBIN322004001908--Pravin N BoB",
+  "Ref No./Cheque No.": "NEFT INB: IRS3338832                               / Pravin N BoB",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "31,609.21",
+  "": ""
+}{
+  "Txn Date": "1/4/22",
+  "Value Date": "1/4/22",
+  "Description": "TO TRANSFER-UPI/DR/200413080012/MEYYAPPA/BARB/meyyappan1/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099411162096",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "21,609.21",
+  "": ""
+}{
+  "Txn Date": "1/4/22",
+  "Value Date": "1/4/22",
+  "Description": "BY TRANSFER-UPI/CR/200418018207/PRAVIN/ICIC/pravin.n19/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693124162090",
+  "Debit": "",
+  "Credit": "22,000.00",
+  "Balance": "43,609.21",
+  "": ""
+}{
+  "Txn Date": "1/11/22",
+  "Value Date": "1/11/22",
+  "Description": "BULK POSTING-ACHCr INDB00288000013764 GAIL (INDIA) L--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "64.00",
+  "Balance": "43,673.21",
+  "": ""
+}{
+  "Txn Date": "1/13/22",
+  "Value Date": "1/13/22",
+  "Description": "TO TRANSFER-UPI/DR/201396363764/Sri Pala/PYTM/paytmqr161/Oid20--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692565162094",
+  "Debit": "1,000.00",
+  "Credit": "",
+  "Balance": "42,673.21",
+  "": ""
+}{
+  "Txn Date": "1/20/22",
+  "Value Date": "1/20/22",
+  "Description": "TO TRANSFER-UPI/DR/202034225383/Sri Pala/PYTM/paytmqr161/Oid20--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692570162096",
+  "Debit": "200.00",
+  "Credit": "",
+  "Balance": "42,473.21",
+  "": ""
+}{
+  "Txn Date": "1/21/22",
+  "Value Date": "1/21/22",
+  "Description": "BY TRANSFER-UPI/CR/202135940841/MEYYAPPA/BARB/meyyappan1/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099166162093",
+  "Debit": "",
+  "Credit": "10,000.00",
+  "Balance": "52,473.21",
+  "": ""
+}{
+  "Txn Date": "1/24/22",
+  "Value Date": "1/24/22",
+  "Description": "TO TRANSFER-UPI/DR/202420924764/Zerodha/ICIC/zerodha.ra/420503--",
+  "Ref No./Cheque No.": "TRANSFER TO 4898726162091",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "42,473.21",
+  "": ""
+}{
+  "Txn Date": "1/25/22",
+  "Value Date": "1/25/22",
+  "Description": "DEBIT-DT09-03-2021 AC21122800632783 414735 REFUND RVSL--",
+  "Ref No./Cheque No.": "",
+  "Debit": "3.75",
+  "Credit": "",
+  "Balance": "42,469.46",
+  "": ""
+}{
+  "Txn Date": "2/1/22",
+  "Value Date": "2/1/22",
+  "Description": "BY TRANSFER-UPI/CR/203209867738/ARUN GAN/SBIN/j.arungane/UPI--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693164162093",
+  "Debit": "",
+  "Credit": "14,154.00",
+  "Balance": "56,623.46",
+  "": ""
+}{
+  "Txn Date": "2/1/22",
+  "Value Date": "2/1/22",
+  "Description": "TO TRANSFER-UPI/DR/203287434650/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER TO 4693876162093",
+  "Debit": "14,000.00",
+  "Credit": "",
+  "Balance": "42,623.46",
+  "": ""
+}{
+  "Txn Date": "2/4/22",
+  "Value Date": "2/4/22",
+  "Description": "BULK POSTING-ACHCr HDFC02539000017265 WIPRO LIMITED--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "125.00",
+  "Balance": "42,748.46",
+  "": ""
+}{
+  "Txn Date": "2/7/22",
+  "Value Date": "2/7/22",
+  "Description": "BULK POSTING-ACHCr UTIB01853000028122 TCSINTDiv07022--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "7.00",
+  "Balance": "42,755.46",
+  "": ""
+}{
+  "Txn Date": "2/23/22",
+  "Value Date": "2/23/22",
+  "Description": "BULK POSTING-ACHCr HDFC01695000013937 Marico Limited--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "87.50",
+  "Balance": "42,842.96",
+  "": ""
+}{
+  "Txn Date": "2/26/22",
+  "Value Date": "2/26/22",
+  "Description": "BY TRANSFER-NEFT*YESB0000001*N057221038334625*ZERODHA BROKING--",
+  "Ref No./Cheque No.": "TRANSFER FROM 3199957044306",
+  "Debit": "",
+  "Credit": "7.93",
+  "Balance": "42,850.89",
+  "": ""
+}{
+  "Txn Date": "2/28/22",
+  "Value Date": "2/28/22",
+  "Description": "BULK POSTING-ACHCr HDFC01136000010452 HEROMOTOCORPLT--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "60.00",
+  "Balance": "42,910.89",
+  "": ""
+}{
+  "Txn Date": "3/2/22",
+  "Value Date": "3/2/22",
+  "Description": "BULK POSTING-ACHCr UTIB01797000027319 SUN TV NETWORK--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "87.50",
+  "Balance": "42,998.39",
+  "": ""
+}{
+  "Txn Date": "3/2/22",
+  "Value Date": "3/2/22",
+  "Description": "BULK POSTING-ACHCr HDFC01701000013943 COROMANDEL INT--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "12.00",
+  "Balance": "43,010.39",
+  "": ""
+}{
+  "Txn Date": "3/3/22",
+  "Value Date": "3/3/22",
+  "Description": "TO TRANSFER-UPI/DR/206219531571/A SETHU/UBIN/sethus661@/UPI--",
+  "Ref No./Cheque No.": "TRANSFER TO 5099596162092",
+  "Debit": "3,600.00",
+  "Credit": "",
+  "Balance": "39,410.39",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "BULK POSTING-ACHCr SBIN01680000014926 NHPC LIMITED--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "43.23",
+  "Balance": "39,453.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "BY TRANSFER-UPI/CR/206384714576/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693428162095",
+  "Debit": "",
+  "Credit": "3,600.00",
+  "Balance": "43,053.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "BULK POSTING-ACHCr IBKL00249000010274 ITC Limited--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "100.00",
+  "Balance": "43,153.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "BULK POSTING-ACHCr NACH00000000006531 INDIAN RAILWAY--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "44.00",
+  "Balance": "43,197.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "TO TRANSFER-INB IMPS/P2A/206322555741/XXXXXXX408BARB--",
+  "Ref No./Cheque No.": "UA0457894811MOAFXDPSD5               TRANSFER TO 4",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "33,197.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "TO TRANSFER-INB IMPS/P2A/206322556069/XXXXXXX948BARB--",
+  "Ref No./Cheque No.": "UA0457894919MOAFXDPSQ4               TRANSFER TO 4",
+  "Debit": "2,000.00",
+  "Credit": "",
+  "Balance": "31,197.62",
+  "": ""
+}{
+  "Txn Date": "3/4/22",
+  "Value Date": "3/4/22",
+  "Description": "BY TRANSFER-UPI/CR/206351530661/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099110162097",
+  "Debit": "",
+  "Credit": "12,000.00",
+  "Balance": "43,197.62",
+  "": ""
+}{
+  "Txn Date": "3/7/22",
+  "Value Date": "3/7/22",
+  "Description": "TO TRANSFER-UPI/DR/206609261257/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097527162099",
+  "Debit": "8,547.00",
+  "Credit": "",
+  "Balance": "34,650.62",
+  "": ""
+}{
+  "Txn Date": "3/7/22",
+  "Value Date": "3/7/22",
+  "Description": "BY TRANSFER-UPI/CR/206679214461/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 4693072162096",
+  "Debit": "",
+  "Credit": "8,547.00",
+  "Balance": "43,197.62",
+  "": ""
+}{
+  "Txn Date": "3/8/22",
+  "Value Date": "3/8/22",
+  "Description": "TO TRANSFER-UPI/DR/206721415866/Zerodha/ICIC/zerodha.ra/821054--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097642162097",
+  "Debit": "5,000.00",
+  "Credit": "",
+  "Balance": "38,197.62",
+  "": ""
+}{
+  "Txn Date": "3/8/22",
+  "Value Date": "3/8/22",
+  "Description": "BY TRANSFER-UPI/CR/206750764069/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5098306162093",
+  "Debit": "",
+  "Credit": "5,000.00",
+  "Balance": "43,197.62",
+  "": ""
+}{
+  "Txn Date": "3/9/22",
+  "Value Date": "3/9/22",
+  "Description": "TO TRANSFER-UPI/DR/206812124888/Zerodha /HDFC/zerodhabro/Coin--",
+  "Ref No./Cheque No.": "TRANSFER TO 4692519162099",
+  "Debit": "3,100.00",
+  "Credit": "",
+  "Balance": "40,097.62",
+  "": ""
+}{
+  "Txn Date": "3/9/22",
+  "Value Date": "3/9/22",
+  "Description": "TO TRANSFER-UPI/DR/206813216687/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097709162093",
+  "Debit": "11,700.00",
+  "Credit": "",
+  "Balance": "28,397.62",
+  "": ""
+}{
+  "Txn Date": "3/10/22",
+  "Value Date": "3/10/22",
+  "Description": "TO TRANSFER-UPI/DR/206909345196/Zerodha /HDFC/zerodhabro/Kite--",
+  "Ref No./Cheque No.": "TRANSFER TO 5097805162093",
+  "Debit": "10,000.00",
+  "Credit": "",
+  "Balance": "18,397.62",
+  "": ""
+}{
+  "Txn Date": "3/10/22",
+  "Value Date": "3/10/22",
+  "Description": "BY TRANSFER-UPI/CR/206900619708/PRAVIN/ICIC/pravinnici/Payment--",
+  "Ref No./Cheque No.": "TRANSFER FROM 5099102162097",
+  "Debit": "",
+  "Credit": "25,000.00",
+  "Balance": "43,397.62",
+  "": ""
+}{
+  "Txn Date": "3/20/22",
+  "Value Date": "3/20/22",
+  "Description": "TO TRANSFER-UPI/DR/207954486084/Slicepay/UTIB/slicepay.r/slice--",
+  "Ref No./Cheque No.": "TRANSFER TO 5098067162092",
+  "Debit": "147.00",
+  "Credit": "",
+  "Balance": "43,250.62",
+  "": ""
+}{
+  "Txn Date": "3/25/22",
+  "Value Date": "3/25/22",
+  "Description": "CREDIT INTEREST---",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "287.00",
+  "Balance": "43,537.62",
+  "": ""
+}{
+  "Txn Date": "3/29/22",
+  "Value Date": "3/29/22",
+  "Description": "BULK POSTING-ACHCr UTIB01797000027319 SUN TV NETWORK--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "275.00",
+  "Balance": "43,812.62",
+  "": ""
+}{
+  "Txn Date": "3/30/22",
+  "Value Date": "3/30/22",
+  "Description": "BULK POSTING-ACHCr INDB00288000013764 GAIL (INDIA) L--",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "180.00",
+  "Balance": "43,992.62",
+  "": ""
+}{
+  "Txn Date": "",
+  "Value Date": "",
+  "Description": "",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "",
+  "Balance": "",
+  "": ""
+}{
+  "Txn Date": "**This is a computer generated statement and does not require a signature",
+  "Value Date": "",
+  "Description": "",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "",
+  "Balance": "",
+  "": ""
+}{
+  "Txn Date": "",
+  "Value Date": "",
+  "Description": "",
+  "Ref No./Cheque No.": "",
+  "Debit": "",
+  "Credit": "",
+  "Balance": "",
+  "": ""
+}

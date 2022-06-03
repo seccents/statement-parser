@@ -1,0 +1,44 @@
+﻿S.No,Date & Time,Type,Token,Amount,INR Running Balance,Reference No.,Status
+1,Tue Mar 22 2022 13:47:32 GMT+0530 (India Standard Time),Exchange Debit,INR,2486.00,147.30980000000272,,confirmed
+2,Tue Mar 22 2022 13:46:19 GMT+0530 (India Standard Time),Exchange Debit,INR,2490.00,2633.3098000000027,,confirmed
+3,Sat Feb 26 2022 15:58:44 GMT+0530 (India Standard Time),Deposit,INR,3000.00,5123.309800000003,621a00c9e51a1200278bf035,confirmed
+4,Wed Feb 09 2022 07:00:23 GMT+0530 (India Standard Time),AIP Debit,INR,3000.00,2123.3098000000027,,confirmed
+5,Tue Feb 08 2022 20:00:34 GMT+0530 (India Standard Time),AIP Debit,INR,6000.00,5123.309800000003,,confirmed
+6,Tue Feb 08 2022 18:50:39 GMT+0530 (India Standard Time),AIP Debit,INR,3000.00,11123.309800000003,,confirmed
+7,Tue Feb 08 2022 13:08:15 GMT+0530 (India Standard Time),Deposit,INR,14000.00,14123.309800000003,203909523671,confirmed
+8,Tue Feb 01 2022 08:27:13 GMT+0530 (India Standard Time),Exchange Debit,INR,99999.87,123.30980000000272,,confirmed
+9,Tue Feb 01 2022 08:26:48 GMT+0530 (India Standard Time),Exchange Refund,INR,100000.00,100123.1798,,confirmed
+10,Mon Jan 31 2022 05:55:09 GMT+0530 (India Standard Time),Exchange Debit,INR,100000.00,123.17979999999807,,confirmed
+11,Fri Jan 28 2022 16:03:32 GMT+0530 (India Standard Time),Deposit,INR,100000.00,100123.1798,202835004093,confirmed
+12,Thu Jan 27 2022 09:35:44 GMT+0530 (India Standard Time),Exchange Debit,INR,100000.00,123.17979999999807,,confirmed
+13,Thu Jan 27 2022 09:34:20 GMT+0530 (India Standard Time),Exchange Refund,INR,99999.90,100123.1798,,confirmed
+14,Mon Jan 24 2022 15:41:02 GMT+0530 (India Standard Time),AIP Debit,INR,9000.00,123.27980000000389,,confirmed
+15,Mon Jan 24 2022 14:50:40 GMT+0530 (India Standard Time),AIP Debit,INR,5000.00,9123.279800000004,,confirmed
+16,Mon Jan 24 2022 10:19:39 GMT+0530 (India Standard Time),Exchange Debit,INR,99999.90,14123.279800000004,,confirmed
+17,Mon Jan 24 2022 10:19:07 GMT+0530 (India Standard Time),Exchange Refund,INR,113999.37,114123.1798,,confirmed
+18,Fri Jan 21 2022 18:05:56 GMT+0530 (India Standard Time),AIP Debit,INR,7500.00,123.80980000000272,,confirmed
+19,Fri Jan 21 2022 08:50:40 GMT+0530 (India Standard Time),AIP Debit,INR,5000.00,7623.809800000003,,confirmed
+20,Mon Jan 17 2022 10:34:53 GMT+0530 (India Standard Time),Exchange Debit,INR,113999.37,12623.809800000003,,confirmed
+21,Mon Jan 17 2022 10:34:33 GMT+0530 (India Standard Time),Exchange Refund,INR,14040.00,126623.1798,,confirmed
+22,Mon Jan 17 2022 10:34:32 GMT+0530 (India Standard Time),Exchange Refund,INR,98999.94,112583.1798,,confirmed
+23,Mon Jan 17 2022 09:27:20 GMT+0530 (India Standard Time),Deposit,INR,1000.00,13583.239799999996,201784731570,confirmed
+24,Sun Jan 16 2022 11:26:55 GMT+0530 (India Standard Time),Exchange Debit,INR,98999.94,12583.239799999996,,confirmed
+25,Sun Jan 16 2022 09:50:41 GMT+0530 (India Standard Time),Deposit,INR,99000.00,111583.1798,201641452415,confirmed
+26,Sat Jan 08 2022 16:33:30 GMT+0530 (India Standard Time),Deposit,INR,12500.00,12583.179799999998,200862331461,confirmed
+27,Wed Dec 29 2021 09:22:29 GMT+0530 (India Standard Time),Exchange Debit,INR,14040.00,83.17979999999807,,confirmed
+28,Wed Dec 29 2021 09:21:52 GMT+0530 (India Standard Time),Exchange Refund,INR,13999.96,14123.179799999998,,confirmed
+29,Wed Dec 29 2021 00:40:46 GMT+0530 (India Standard Time),AIP Debit,INR,10000.00,123.21979999999712,,confirmed
+30,Tue Dec 28 2021 08:46:28 GMT+0530 (India Standard Time),AIP Debit,INR,2369.00,10123.219799999997,,confirmed
+31,Wed Dec 22 2021 21:00:11 GMT+0530 (India Standard Time),Exchange Debit,INR,13999.96,12492.219799999997,,confirmed
+32,Mon Dec 20 2021 13:38:13 GMT+0530 (India Standard Time),Deposit,INR,1000.00,26492.179799999998,135479471062,confirmed
+33,Mon Dec 20 2021 13:36:33 GMT+0530 (India Standard Time),Deposit,INR,24000.00,25492.179799999998,135479377096,confirmed
+34,Tue Nov 16 2021 16:47:10 GMT+0530 (India Standard Time),AIP Debit,INR,6008.00,1492.179799999998,,confirmed
+35,Tue Nov 09 2021 08:34:04 GMT+0530 (India Standard Time),Deposit,INR,1000.00,7500.179799999998,131382145648,confirmed
+36,Wed Nov 03 2021 11:44:36 GMT+0530 (India Standard Time),Exchange Debit,INR,99999.82,6500.179799999998,,confirmed
+37,Wed Nov 03 2021 11:44:00 GMT+0530 (India Standard Time),Exchange Refund,INR,98750.00,106500,,confirmed
+38,Wed Nov 03 2021 08:56:06 GMT+0530 (India Standard Time),Exchange Debit,INR,98750.00,7750,,confirmed
+39,Wed Nov 03 2021 08:52:30 GMT+0530 (India Standard Time),Deposit,INR,99000.00,106500,130727158343,confirmed
+40,Mon Nov 01 2021 11:46:13 GMT+0530 (India Standard Time),Exchange Debit,INR,22500.00,7500,,confirmed
+41,Mon Nov 01 2021 11:43:26 GMT+0530 (India Standard Time),Deposit,INR,29900.00,30000,130537315001,confirmed
+42,Mon Nov 01 2021 11:28:31 GMT+0530 (India Standard Time),Deposit,INR,100.00,100,130536785234,confirmed
+43,Sat Oct 30 2021 16:26:43 GMT+0530 (India Standard Time),Deposit,INR,100.00,0,130356232954,refunded

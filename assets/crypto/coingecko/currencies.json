@@ -1,0 +1,72 @@
+{
+	"eth": {
+		"id": "ethereum",
+		"symbol": "eth",
+		"name": "Ethereum"
+	},
+	"btc": {
+		"id": "bitcoin",
+		"symbol": "btc",
+		"name": "Bitcoin"
+	},
+	"xrp": {
+		"id": "ripple",
+		"symbol": "xrp",
+		"name": "Ripple"
+	},
+	"ltc": {
+		"id": "litecoin",
+		"symbol": "ltc",
+		"name": "Litecoin"
+	},
+	"bch": {
+		"id": "bitcoin-cash",
+		"symbol": "bch",
+		"name": "Bitcoin Cash"
+	},
+	"ada": {
+		"id": "cardano",
+		"symbol": "ada",
+		"name": "Cardano"
+	},
+	"eos": {
+		"id": "eos",
+		"symbol": "eos",
+		"name": "EOS"
+	},
+	"trx": {
+		"id": "tron",
+		"symbol": "trx",
+		"name": "TRON"
+	},
+	"bnb": {
+		"id": "binance-coin",
+		"symbol": "bnb",
+		"name": "Binance Coin"
+	},
+	"etc": {
+		"id": "ethereum-classic",
+		"symbol": "etc",
+		"name": "Ethereum Classic"
+	},
+	"matic": {
+		"id": "matic-network",
+		"symbol": "matic",
+		"name": "Polygon"
+	},
+	"shib": {
+		"id": "shiba-inu",
+		"symbol": "shib",
+		"name": "Shiba Inu"
+	},
+	"usdt": {
+		"id": "tether",
+		"symbol": "usdt",
+		"name": "Tether"
+	},
+	"axs": {
+		"id": "axie-infinity",
+		"symbol": "axs",
+		"name": "Axie Infinity"
+	}
+}

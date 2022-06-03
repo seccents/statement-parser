@@ -1,0 +1,14 @@
+﻿S.No,Date & time,Asset Exchanged (Token),Asset Exchanged (Amount),Asset Received (Token),Asset Received (Amount),Conversion Rate,Current Conversion Rate,% Change in Conversion Change,Fees (Token),Fees (Amount),Type,Status
+1,Tue Mar 22 2022 13:47:32 GMT+0530 (India Standard Time),INR,2486.00,ETH,0.00000000,--,--,--,--,--,limit,0% processing
+2,Tue Mar 22 2022 13:46:19 GMT+0530 (India Standard Time),INR,2490.00,BTC,0.00000000,--,--,--,--,--,limit,0% processing
+3,Tue Feb 01 2022 08:27:13 GMT+0530 (India Standard Time),INR,99999.87,USDT,1257.860000,1 USDT = 79.50 INR,1 USDT = 78.76 INR,-0.93,--,--,limit,100% complete
+4,Mon Jan 31 2022 05:55:09 GMT+0530 (India Standard Time),INR,100000.00,USDT,1250.000000,1 USDT = 80.00 INR,1 USDT = 78.76 INR,-1.55,--,--,limit,100% complete
+5,Thu Jan 27 2022 09:35:44 GMT+0530 (India Standard Time),INR,100000.00,MATIC,0.00000000,--,--,--,--,--,limit,0% cancelled
+6,Mon Jan 24 2022 10:19:39 GMT+0530 (India Standard Time),INR,99999.90,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+7,Mon Jan 17 2022 10:34:53 GMT+0530 (India Standard Time),INR,113999.37,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+8,Sun Jan 16 2022 11:26:55 GMT+0530 (India Standard Time),INR,98999.94,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+9,Wed Dec 29 2021 09:22:29 GMT+0530 (India Standard Time),INR,14040.00,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+10,Wed Dec 22 2021 21:00:11 GMT+0530 (India Standard Time),INR,13999.96,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+11,Wed Nov 03 2021 11:44:36 GMT+0530 (India Standard Time),INR,99999.82,USDT,1265.340000,1 USDT = 79.03 INR,1 USDT = 78.76 INR,-0.34,--,--,limit,100% complete
+12,Wed Nov 03 2021 08:56:06 GMT+0530 (India Standard Time),INR,98750.00,USDT,0.000000,--,--,--,--,--,limit,0% cancelled
+13,Mon Nov 01 2021 11:46:13 GMT+0530 (India Standard Time),INR,22500.00,USDT,279.884217,1 USDT = 80.39 INR,1 USDT = 78.76 INR,-2.03,--,--,instant,100% complete
