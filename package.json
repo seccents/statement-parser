@@ -40,7 +40,8 @@
 		"@secsncents/statement-parser": "file:secsncents-statement-parser-0.0.3.tgz",
 		"moment": "^2.29.2",
 		"pdf2html": "^2.6.7",
-		"pdfreader": "^2.0.0"
+		"pdfreader": "^2.0.0",
+		"xlsx": "^0.18.5"
 	},
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^5.18.0",

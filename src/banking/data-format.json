@@ -1,0 +1,16 @@
+{
+	"hdfc": {
+		"dividend_example": "ACH C- INFOSYS LIMITED-24520177",
+		"credit_intrest_example": "CREDIT INTEREST CAPITALISED"
+	},
+	"icici": {
+		"credit_intrest_example": "055801629931:Int.Pd:30-09-2021 to 30-12-2021      ",
+		"credit_intrest_example_2": "055801629931:Int.Pd:31-12-2021 to 29-03-2022      ",
+		"account_details": "Transactions List -  KANNADASAN R - 055801629931",
+		"dividend_example": "ACH/SUN TV NETWORK LTD/4679411                    "
+	},
+	"sbi": {
+		"dividend_example": "BULK POSTING-ACHCr HDFC01146000010467 BRITANNIA INDU--",
+		"credit_intrest_example": "   CREDIT INTEREST---"
+	}
+}
